@@ -113,7 +113,7 @@ describe('Test with a more complex / unordered dataset:', () => {
     setUsers(leaders);
 
 
-    it('User Id:1', () => {
+    it('Leader Id:1', () => {
         expect(
             getSubOrdinates(1)
         )
@@ -123,7 +123,7 @@ describe('Test with a more complex / unordered dataset:', () => {
                 ]
             );
     });
-    it('User Id:2', () => {
+    it('Leader Id:2', () => {
         expect(
             getSubOrdinates(2)
         )
@@ -136,7 +136,7 @@ describe('Test with a more complex / unordered dataset:', () => {
                 ]
             );
     });
-    it('User Id:3', () => {
+    it('Leader Id:3', () => {
         expect(
             getSubOrdinates(3)
         )
@@ -145,7 +145,7 @@ describe('Test with a more complex / unordered dataset:', () => {
                 ]
             );
     });
-    it('User Id:4', () => {
+    it('Leader Id:4', () => {
         expect(
             getSubOrdinates(4)
         )
@@ -154,7 +154,7 @@ describe('Test with a more complex / unordered dataset:', () => {
                 ]
             );
     });
-    it('User Id:5', () => {
+    it('Leader Id:5', () => {
         expect(
             getSubOrdinates(5)
         )
@@ -163,7 +163,7 @@ describe('Test with a more complex / unordered dataset:', () => {
                 ]
             );
     });
-    it('User Id:6', () => {
+    it('Leader Id:6', () => {
         expect(
             getSubOrdinates(6)
         )
@@ -172,7 +172,7 @@ describe('Test with a more complex / unordered dataset:', () => {
                 ]
             );
     });
-    it('User Id:7', () => {
+    it('Leader Id:7', () => {
         expect(
             getSubOrdinates(7)
         )
@@ -182,7 +182,7 @@ describe('Test with a more complex / unordered dataset:', () => {
                 ]
             );
     });
-    it('User Id:8', () => {
+    it('Leader Id:8', () => {
         expect(
             getSubOrdinates(8)
         )
@@ -195,7 +195,7 @@ describe('Test with a more complex / unordered dataset:', () => {
                 ]
             );
     });
-    it('User Id:9', () => {
+    it('Leader Id:9', () => {
         expect(
             getSubOrdinates(9)
         )
@@ -206,7 +206,7 @@ describe('Test with a more complex / unordered dataset:', () => {
                 ]
             );
     });
-    it('User Id:10', () => {
+    it('Leader Id:10', () => {
         expect(
             getSubOrdinates(10)
         )
