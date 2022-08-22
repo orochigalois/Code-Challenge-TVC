@@ -24,7 +24,7 @@ yarn start
 ```
 
 ### Run Tests
-A more complex / unordered dataset is provided in unordered.test.js
+A more complex / unordered dataset is provided in [unordered.test.js](https://github.com/orochigalois/Code-Challenge-TVC/blob/main/tests/unordered.test.js)
 ```sh
 yarn test
 ```
