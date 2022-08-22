@@ -24,7 +24,7 @@ yarn start
 ```
 
 ### Run Tests
-Original dataset is provided in [original.test.js](https://github.com/orochigalois/Code-Challenge-TVC/blob/main/tests/original.test.js)
+Original dataset is used in [original.test.js](https://github.com/orochigalois/Code-Challenge-TVC/blob/main/tests/original.test.js)
 
 A more complex / unordered dataset is provided in [unordered.test.js](https://github.com/orochigalois/Code-Challenge-TVC/blob/main/tests/unordered.test.js)
 ```sh
