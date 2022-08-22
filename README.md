@@ -1,5 +1,6 @@
 ### Setup
 Please make sure Node version >= 12
+
 Clone this repository
 
 ### Install yarn
