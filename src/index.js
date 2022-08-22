@@ -1,6 +1,6 @@
 require('./data')
-const { Role } = require('./role')
-const { User } = require('./user')
+const { Role } = require('./Role')
+const { User } = require('./User')
 
 
 function setRoles(arr) {
